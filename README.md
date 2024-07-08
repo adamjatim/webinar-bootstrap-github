@@ -32,7 +32,7 @@ Hal-hal yang perlu kalian persiapkan sebelum mengikuti webinar ini :
 
   ### 2.1 Install Visual Studio Code
 
-  Buka link Visual studio code pada link berikut :
+  Buka halaman Visual studio code pada link berikut :
   [link download](https://code.visualstudio.com/).
 
   - Dari link diatas maka akan tampil halaman utama dari visual studio code.
@@ -69,7 +69,7 @@ Hal-hal yang perlu kalian persiapkan sebelum mengikuti webinar ini :
 
   ### 2.2 Install Git Bash
 
-  Buka link Visual studio code pada link berikut :
+  Buka halaman Git pada link berikut :
   [link download](https://git-scm.com/).
 
   - Dari link diatas maka akan tampil halaman utama dari Git.
