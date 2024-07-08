@@ -75,33 +75,75 @@ Hal-hal yang perlu kalian persiapkan sebelum mengikuti webinar ini :
   - Dari link diatas maka akan tampil halaman utama dari Git.
     ![image](/img/git/img01.png)
     Pilih download sesuai dengan platform yang kalian gunakan, lalu jalankan setelah selesai mendownload.
+    ![image](/img/git/img02.png)
 
-  - Pastikan untuk menekan cek pada _I accept the agreement_ lalu next.
-    ![image](/img/vscode-win/img02.png)
+  - Setelah selesai mendownload, jalankan aplikasi.
+    ![image](/img/git/img03.png)
 
-  - Tentukan dimana vs code akan diletakan pada komputer anda.
-      > [!NOTE]
-      > jika tidak begitu paham dengan maksud ini, lewati bagian ini dengan menekan next.
-      >
-    ![image](/img//vscode-win/img03.png)
+  - Scroll kebagian paling bawah dari Terms and Conditions untuk dapat menlanjutkan ke step berikutnya.
+    ![image](/img/git/img04.png)
+
+  - Tentukan dimana Git akan diletakan pada komputer anda.
+> [!NOTE]
+> jika tidak begitu paham dengan maksud ini, lewati bagian ini dengan menekan next.
+    ![image](/img/git/img05.png)
+
+  - Menentukan komponen.
+> [!NOTE]
+> jika tidak begitu paham dengan maksud ini, lewati bagian ini dengan menekan next.
+    ![image](/img/git/img06.png)
 
   - Next.
-    ![image](/img/vscode-win/img04.png)
+    ![image](/img/git/img07.png)
 
   - Next.
-    ![image](/img/vscode-win/img05.png)
+    ![image](/img/git/img08.png)
+
+  - Next.
+    ![image](/img/git/img09.png)
+
+  - Next.
+    ![image](/img/git/img10.png)
+
+  - Next.
+    ![image](/img/git/img11.png)
+
+  - Next.
+    ![image](/img/git/img12.png)
+
+  - Next.
+    ![image](/img/git/img13.png)
+
+  - Next.
+    ![image](/img/git/img14.png)
+
+  - Next.
+    ![image](/img/git/img15.png)
+
+  - Next.
+    ![image](/img/git/img16.png)
 
   - Install.
-    ![image](/img/vscode-win/img06.png)
+    ![image](/img/git/img17.png)
 
   - Tunggu hingga proses installasi selesai.
-    ![image](/img/vscode-win/img07.png)
+    ![image](/img/git/img18.png)
 
-  - Jika sudah, jalankan VS Code dengan mengklik _Finish_.
-    ![image](/img/vscode-win/img08.png)
+  - Jika sudah, klik _Finish_.
+    ![image](/img/git/img19.png)
 
-  - Selamat, VS Code berhasil di install.
-    ![image](/img/vscode-win/img09.png)
+  - Coba cari Git Bash pada start, lalu jalankan.
+    ![image](/img/git/img20.jpeg)
+
+  - Lakukan configurasi dasar pada git di komputermu sebagai inisialisasi identitas.
+  
+  
+    Masukan dengan format
+    ```bash
+      git config --global user.name "<username github mu>"
+      git config --global user.email "<email github mu>"
+    ```
+    ![image](/img/git/img21.jpeg)
 
 ### Definisi  
 
