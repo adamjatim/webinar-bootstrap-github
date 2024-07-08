@@ -45,6 +45,7 @@ Hal-hal yang perlu kalian persiapkan sebelum mengikuti webinar ini :
   - Tentukan dimana vs code akan diletakan pada komputer anda.
     > [!WARNING]
     > jika tidak begitu paham dengan maksud ini, lewati bagian ini dengan menekan next.
+    > 
     ![image](/img//vscode/img03.png)
 
   - Next.
