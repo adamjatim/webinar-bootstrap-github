@@ -4,33 +4,48 @@
 
 Hai semuanya. Repositori ini adalah tempat di mana kalian akan menyiapkan segala hal dan tool yang akan digunakan pada saat pelaksanaan Webniar ini.
 
-<!-- > [!WARNING]
-> Semua logo yang ditampilkan disini merupakan buatan Sawaratsuki dan tidak dibuat oleh layanan atau organisasi masing-masing.  
-> Tidak semua logo digunakan secara resmi.  
-> Diharapkan untuk tidak terlalu berlebihan dengan elemen "_kawaii_".
-
-> [!IMPORTANT]
-> Isi repositori ini **tidak boleh** digunakan untuk AI atau apa pun yang dianggap **serupa** oleh Sawaratsuki.  
-> Tolong dicatat. -->
-
 ## Ringkasan
 1. [Persiapan](#1-persiapan)
-2. [Installasi Kebutuhan](#2-installasi-kebutuhan)
-    1. [Install Visual Studio Code](#21-install-visual-studio-code)
-    2. [Install git bash]()
+2. [Instalasi Kebutuhan](#2-installasi-kebutuhan)
+    1. [Membuat akun github](#21-membuat-akun-github)
+    2. [Install Visual Studio Code](#22-install-visual-studio-code)
+    3. [Install Git Bash](#23-install-git-bash)
 
 ### 1. Persiapan
 
 Hal-hal yang perlu kalian persiapkan sebelum mengikuti webinar ini :
   1. Koneksi Internet (dengan jaringan yang stabil).
   2. Laptop / Komputer.
-  3. Text editor, seperti [Visual Studio Code](https://code.visualstudio.com/).
-  4. [Git Bash](https://git-scm.com/).
-  5. Akun [Github](https://github.com/).
+  3. Akun [Github](https://github.com/).
+  4. Text editor, seperti [Visual Studio Code](https://code.visualstudio.com/).
+  5. [Git Bash](https://git-scm.com/).
 
-### 2. Installasi kebutuhan
+### 2. Instalasi kebutuhan
 
-  ### 2.1 Install Visual Studio Code
+  ### 2.1 Membuat akun Github
+
+  Buka halaman Github pada link berikut :
+  [Github link](https://github.com/).
+
+  - Dari link diatas maka akan tampil halaman utama dari Github.
+    ![image](/img/github/img01.png)
+
+  - Lalu klik **Sign Up** untuk membuat akun baru. Kemudian, masukkan informasi yang dibutuhkan, seperti email, password, hingga username.
+    ![image](/img/github/img02.png)
+  Bila ingin mendapatkan berita GitHub terbaru ke email Anda, ketikan _y_. Bila tidak, Anda ketikkan _n_.
+
+  - Selanjutnya, Anda harus mengerjakan puzzle singkat atau Captcha sebagai langkah verifikasi. Lalu, klik Create Account.
+    ![image](/img/github/img03.png)
+
+  - Kemudian, Anda akan diminta memasukkan kode verifikasi yang dikirim ke email Anda. Jadi, cek inbox atau spam pada email Anda. Bila email GitHub belum masuk, Anda bisa klik Resend the code untuk mengirim ulang kodenya.
+    ![image](/img/github/img04.png)
+
+  - Setelah memasukkan kode, Anda bisa melakukan proses personalisasi akun. Jika tidak ingin melakukannya, klik Skip, dan Anda akan diarahkan ke dashboard GitHub.
+    ![image](/img/github/img05.png)
+
+
+
+  ### 2.2 Install Visual Studio Code
 
   Buka halaman Visual studio code pada link berikut :
   [link download](https://code.visualstudio.com/).
@@ -56,7 +71,7 @@ Hal-hal yang perlu kalian persiapkan sebelum mengikuti webinar ini :
   - Install.
     ![image](/img/vscode/img06.png)
 
-  - Tunggu hingga proses installasi selesai.
+  - Tunggu hingga proses instalasi selesai.
     ![image](/img/vscode/img07.png)
 
   - Jika sudah, jalankan VS Code dengan mengklik _Finish_.
@@ -67,7 +82,7 @@ Hal-hal yang perlu kalian persiapkan sebelum mengikuti webinar ini :
 
 
 
-  ### 2.2 Install Git Bash
+  ### 2.3 Install Git Bash
 
   Buka halaman Git pada link berikut :
   [link download](https://git-scm.com/).
@@ -126,7 +141,7 @@ Hal-hal yang perlu kalian persiapkan sebelum mengikuti webinar ini :
   - Install.
     ![image](/img/git/img17.png)
 
-  - Tunggu hingga proses installasi selesai.
+  - Tunggu hingga proses instalasi selesai.
     ![image](/img/git/img18.png)
 
   - Jika sudah, klik _Finish_.
@@ -135,7 +150,7 @@ Hal-hal yang perlu kalian persiapkan sebelum mengikuti webinar ini :
   - Coba cari Git Bash pada start, lalu jalankan.
     ![image](/img/git/img20.jpeg)
 
-  - Lakukan configurasi dasar pada git di komputermu sebagai inisialisasi identitas.
+  - Lakukan konfigurasi dasar pada git di komputermu sebagai inisialisasi identitas.
   
   
     Masukan dengan format
@@ -144,54 +159,3 @@ Hal-hal yang perlu kalian persiapkan sebelum mengikuti webinar ini :
       git config --global user.email "<email github mu>"
     ```
     ![image](/img/git/img21.jpeg)
-
-### Definisi  
-
-Yang dimaksud dengan "**Resmi**" disini merujuk kepada individu atau organisasi yang memegang penuh hak atas logo tersebut, bukan nama (dari setiap logo) atau logo yang dibuat Sawaratsuki.
-
-### Semua persyaratan
-
-- Anda bebas menggunakannya untuk penggunaan pribadi.  
-Misalnya, produksi stiker dianggap sebagai penggunaan pribadi.
-> [!WARNING]
-> Produk apa pun yang dibuat menggunakan logo ini tidak boleh dijual.
-- Penggunaan logo untuk tujuan komerisal pada dasarnya dilarang.  
-Namun, diperbolehkan dalam kondisi berikut.
-  > - Jika Anda ingin menggunakan logo tersebut sebagai logo resmi untuk penggunaan komersial, atau jika Anda telah memperoleh izin resmi untuk seluruh ketentuan lisensi ini.  
-  > - Jika Anda diizinkan untuk menggunakan logo sesuai dengan "Lisensi masing-masing logo" di bawah
-  > - Jika diizinkan oleh masing-masing pihak resmi.
-  > - Jika "Lisensi dan Catatan untuk setiap logo" menyatakan bahwa logo dapat digunakan untuk tujuan komersial.
-- Anda tidak perlu menyebutkan saya atau repositori ini pada karya Anda yang menggunakan logo di repositori ini.  
-  Namun, itu akan memotivasi Sawaratsuki jika Anda melakukannya.
-- Sawaratsuki tidak bertanggung jawab atas segala kerusakan yang disebabkan oleh isi repositori ini.
-
-## Lisensi dan Catatan untuk setiap logo
-
-Bagian ini menjelaskan lisensi yang berlaku untuk setiap logo.  
-Selain aturan umum yang telah disebutkan sebelumnya, mohon perhatikan dan patuhi lisensi berikut.
-
-### Kode status
-
-> Kode status seperti 404 NotFound, 403 Forbidden, 503 Service Unavailable, [dan lain-lan](https://github.com/SAWARATSUKI/KawaiiLogos/tree/main/ResponseCode).  
-> Anda dapat menggunakan kode status ini di situs web yg dimonetisasi.
-
-### Kotlin
-
-> Logo ini tidak secara resmi didukung oleh Kotlin Foundaton  
-> (Tetapi sudah dikonfirmasi secara resmi)
-
-## Ucapan Terima Kasih
-
-Logo-logo ini hanyalah kreasi sekunder.  
-Kami tidak memaksa Anda untuk menggunakannya secara resmi. Kami ingin mengucapkan terima kasih yang sebesar-besarnya kepada pihak yang membuat logo dan memberi izin logo _kawaii_.
-
-## Tentang permintaan logo
-
-- Silakan kirim permintaannya ke tab [Issues](https://github.com/SAWARATSUKI/KawaiiLogos/issues).  
-Jika kami telah menerima izin resmi untuk pembuatan logo dari layanan yang di minta, kami akan memprioritaskan pembuatannya.
-- Kami tidak akan menambahkan logo selain yang dibuat oleh Sawaratsuki ke dalam repositori ini.  
-  Oleh karena itu, meskipun seseorang menambahkan logo baru melalui Pull Request dll, kami tidak akan menggabungkannya.
-
-## Permintaan penghapusan logo
-
-Jika Anda perlu menghapus logo dari repositori ini, silakan hubungi [Sawaratsuki melalui DM](https://x.com/sawaratsuki1004).
