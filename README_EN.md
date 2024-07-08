@@ -4,68 +4,158 @@
 
 Hi all. This repository is the place where you will prepare all the things and tools that will be used during this Webniar.
 
-> [!WARNING]
-> Semua logo yang ditampilkan disini merupakan buatan Sawaratsuki dan tidak dibuat oleh layanan atau organisasi masing-masing.  
-> Tidak semua logo digunakan secara resmi.  
-> Diharapkan untuk tidak terlalu berlebihan dengan elemen "_kawaii_".
+## Summary
+1. [Preparation](#1-preparation)
+2. [Installation Requirements](#2-installation-requirements)
+    1. [Create github account](#21-create-github-account)
+    2. [Install Visual Studio Code](#22-install-visual-studio-code)
+    3. [Install Git Bash](#23-install-git-bash)
 
-> [!IMPORTANT]
-> Isi repositori ini **tidak boleh** digunakan untuk AI atau apa pun yang dianggap **serupa** oleh Sawaratsuki.  
-> Tolong dicatat.
+### 1. Preparation
 
-## Lisensi
+Things you need to prepare before taking part in this webinar :
+  1. Internet connection (with a stable network).
+  2. Laptop / Computer.
+  3. Account [Github](https://github.com/).
+  4. Text editor, such as [Visual Studio Code](https://code.visualstudio.com/).
+  5. [Git Bash](https://git-scm.com/).
 
-Repositori ini dilisensikan berdasarkan lisensi kepemilikan berikut.
+### 2. Installation Requirements
 
-### Jika Anda ingin menggunakan logo, tolong baca bagian ini
+  ### 2.1 Create Github Account
 
-### Definisi  
+  - Open the Github page at the following link :
+  [Github link](https://github.com/).
 
-Yang dimaksud dengan "**Resmi**" disini merujuk kepada individu atau organisasi yang memegang penuh hak atas logo tersebut, bukan nama (dari setiap logo) atau logo yang dibuat Sawaratsuki.
+  - From the link above, the main Github page will appear.
+    ![image](/img/github/img01.png)
 
-### Semua persyaratan
+  - Then click **Sign Up** to create a new account. Then, enter the required information, such as email, password, and username.
+    ![image](/img/github/img02.png)
+  If you want to get the latest GitHub news to your email, type _y_. If not, you type _n_.
 
-- Anda bebas menggunakannya untuk penggunaan pribadi.  
-Misalnya, produksi stiker dianggap sebagai penggunaan pribadi.
-> [!WARNING]
-> Produk apa pun yang dibuat menggunakan logo ini tidak boleh dijual.
-- Penggunaan logo untuk tujuan komerisal pada dasarnya dilarang.  
-Namun, diperbolehkan dalam kondisi berikut.
-  > - Jika Anda ingin menggunakan logo tersebut sebagai logo resmi untuk penggunaan komersial, atau jika Anda telah memperoleh izin resmi untuk seluruh ketentuan lisensi ini.  
-  > - Jika Anda diizinkan untuk menggunakan logo sesuai dengan "Lisensi masing-masing logo" di bawah
-  > - Jika diizinkan oleh masing-masing pihak resmi.
-  > - Jika "Lisensi dan Catatan untuk setiap logo" menyatakan bahwa logo dapat digunakan untuk tujuan komersial.
-- Anda tidak perlu menyebutkan saya atau repositori ini pada karya Anda yang menggunakan logo di repositori ini.  
-  Namun, itu akan memotivasi Sawaratsuki jika Anda melakukannya.
-- Sawaratsuki tidak bertanggung jawab atas segala kerusakan yang disebabkan oleh isi repositori ini.
+  - Next, you have to do a short puzzle or Captcha as a verification step. Then, click Create Account.
+    ![image](/img/github/img03.png)
 
-## Lisensi dan Catatan untuk setiap logo
+  - Then, you will be asked to enter a verification code sent to your email. So, check your inbox or spam on your email. If the GitHub email hasn't arrived, you can click Resend the code to resend the code.
+    ![image](/img/github/img04.png)
 
-Bagian ini menjelaskan lisensi yang berlaku untuk setiap logo.  
-Selain aturan umum yang telah disebutkan sebelumnya, mohon perhatikan dan patuhi lisensi berikut.
+  - After entering the code, you can carry out the account personalization process. If you don't want to do this, click Skip, and you will be redirected to the GitHub dashboard.
+    ![image](/img/github/img05.png)
 
-### Kode status
 
-> Kode status seperti 404 NotFound, 403 Forbidden, 503 Service Unavailable, [dan lain-lan](https://github.com/SAWARATSUKI/KawaiiLogos/tree/main/ResponseCode).  
-> Anda dapat menggunakan kode status ini di situs web yg dimonetisasi.
 
-### Kotlin
+  ### 2.2 Install Visual Studio Code
 
-> Logo ini tidak secara resmi didukung oleh Kotlin Foundaton  
-> (Tetapi sudah dikonfirmasi secara resmi)
+  Open the Visual Studio Code page at the following link :
+  [link download](https://code.visualstudio.com/).
 
-## Ucapan Terima Kasih
+  - From the link above, the main page of Visual Studio Code will appear.
+    ![image](/img/vscode/img01.png)
+    Select download according to the platform you are using, then run it after completing the download.
 
-Logo-logo ini hanyalah kreasi sekunder.  
-Kami tidak memaksa Anda untuk menggunakannya secara resmi. Kami ingin mengucapkan terima kasih yang sebesar-besarnya kepada pihak yang membuat logo dan memberi izin logo _kawaii_.
+  - Make sure to press check on _I accept the agreement_ then next.
+    ![image](/img/vscode/img02.png)
 
-## Tentang permintaan logo
+  - Determine where the VS Code will be placed on your computer.
+> [!NOTE]
+> If you don't really understand what this means, skip this section by pressing next.
+    ![image](/img//vscode/img03.png)
 
-- Silakan kirim permintaannya ke tab [Issues](https://github.com/SAWARATSUKI/KawaiiLogos/issues).  
-Jika kami telah menerima izin resmi untuk pembuatan logo dari layanan yang di minta, kami akan memprioritaskan pembuatannya.
-- Kami tidak akan menambahkan logo selain yang dibuat oleh Sawaratsuki ke dalam repositori ini.  
-  Oleh karena itu, meskipun seseorang menambahkan logo baru melalui Pull Request dll, kami tidak akan menggabungkannya.
+  - Next.
+    ![image](/img/vscode/img04.png)
 
-## Permintaan penghapusan logo
+  - Next.
+    ![image](/img/vscode/img05.png)
 
-Jika Anda perlu menghapus logo dari repositori ini, silakan hubungi [Sawaratsuki melalui DM](https://x.com/sawaratsuki1004).
+  - Install.
+    ![image](/img/vscode/img06.png)
+
+  - Wait until the installation process is complete.
+    ![image](/img/vscode/img07.png)
+
+  - When finished, run VS Code by clicking _Finish_.
+    ![image](/img/vscode/img08.png)
+
+  - Congratulations, VS Code has been successfully installed.
+    ![image](/img/vscode/img09.png)
+
+
+
+  ### 2.3 Install Git Bash
+
+  Open the Git page at the following link :
+  [link download](https://git-scm.com/).
+
+  - From the link above, the main Git page will appear.
+    ![image](/img/git/img01.png)
+    Select download according to the platform you are using, then run it after completing the download.
+    ![image](/img/git/img02.png)
+
+  - Once the download is complete, run the application.
+    ![image](/img/git/img03.png)
+
+  - Scroll to the bottom of the Terms and Conditions to continue to the next step.
+    ![image](/img/git/img04.png)
+
+  - Determine where Git will be placed on your computer.
+> [!NOTE]
+> If you don't really understand what this means, skip this section by pressing next.
+    ![image](/img/git/img05.png)
+
+  - Define components.
+> [!NOTE]
+> If you don't really understand what this means, skip this section by pressing next.
+    ![image](/img/git/img06.png)
+
+  - Next.
+    ![image](/img/git/img07.png)
+
+  - Next.
+    ![image](/img/git/img08.png)
+
+  - Next.
+    ![image](/img/git/img09.png)
+
+  - Next.
+    ![image](/img/git/img10.png)
+
+  - Next.
+    ![image](/img/git/img11.png)
+
+  - Next.
+    ![image](/img/git/img12.png)
+
+  - Next.
+    ![image](/img/git/img13.png)
+
+  - Next.
+    ![image](/img/git/img14.png)
+
+  - Next.
+    ![image](/img/git/img15.png)
+
+  - Next.
+    ![image](/img/git/img16.png)
+
+  - Install.
+    ![image](/img/git/img17.png)
+
+  - Wait until the installation process is complete.
+    ![image](/img/git/img18.png)
+
+  - When finished, click _Finish_.
+    ![image](/img/git/img19.png)
+
+  - Try searching for Git Bash on start, then run it.
+    ![image](/img/git/img20.jpeg)
+
+  - Perform basic configuration on git on the computer to initialize the identity.
+  
+  
+    Enter with format
+    ```bash
+      git config --global user.name "<username github mu>"
+      git config --global user.email "<email github mu>"
+    ```
+    ![image](/img/git/img21.jpeg)
